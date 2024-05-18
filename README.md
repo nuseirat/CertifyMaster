@@ -1,5 +1,6 @@
 # CertifyMaster
 
+Try it: https://certifymaster.netlify.app/
 
 CertifyMaster is an online platform dedicated to providing a curated list of free educational resources, certifications, and training programs across various technologies and fields. Our goal is to help learners and professionals advance their skills, enhance their knowledge, and gain valuable certifications to boost their careers.
 Features
