@@ -1,0 +1,1000 @@
+{
+    "general": [
+      {
+        "technology": "Gitlab Certification",
+        "provider": "Gitlab",
+        "description": "Free Certifications paths and badges",
+        "link": "https://about.gitlab.com/learn/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Machine Learning with Python",
+        "provider": "freeCodeCamp",
+        "description": "Free lesson and certification",
+        "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Data Visualization",
+        "provider": "freeCodeCamp",
+        "description": "Free lesson and certification",
+        "link": "https://www.freecodecamp.org/learn/data-visualization/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "AI Fundamentals",
+        "provider": "Databricks",
+        "description": "Generative AI Fundamentals",
+        "link": "https://www.databricks.com/resources/learn/training/generative-ai-fundamentals",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "OCI",
+        "provider": "Oracle",
+        "description": "Oracle Cloud Infrastructure 2023 Foundations Associate",
+        "link": "https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "OCI",
+        "provider": "Oracle",
+        "description": "Oracle Cloud Data Management 2023 Foundations Associate",
+        "link": "https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Azure",
+        "provider": "Pluralsight",
+        "description": "Free subscription at Pluralsight for Microsoft Azure courses",
+        "link": "https://www.pluralsight.com/partners/microsoft/azure",
+        "expiration": "01-Jan-2025"
+      },
+      {
+        "technology": "Cloud Networking",
+        "provider": "Aviatrix",
+        "description": "Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD",
+        "link": "https://aviatrix.teachable.com",
+        "expiration": "Limited Time"
+      },
+    
+      {
+        "technology": "JumpCloud",
+        "provider": "JumpCloud",
+        "description": "Free JumpCloud Core Certification (worth $150).",
+        "link": "https://jumpcloud.com/university/certifications/core",
+        "expiration": "Limited Time"
+      },
+      {
+        "technology": "Google Cloud",
+        "provider": "QwikLabs",
+        "description": "Extra 30 days for Google Cloud labs on Qwiklabs.",
+        "link": "https://go.qwiklabs.com/qwiklabs-free",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Automated Testing",
+        "provider": "Test Automation University",
+        "description": "Free certification courses by the Test Automation University.",
+        "link": "https://testautomationu.applitools.com/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Security",
+        "provider": "Juniper Networks",
+        "description": "Courses and certifications for free by Juniper Networks (instead of 150 euros).",
+        "link": "https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Google Cloud",
+        "provider": "QwikLabs",
+        "description": "Claim 30 days of free Qwiklabs and access to the featured labs.",
+        "link": "https://go.qwiklabs.com/googlecloudsolutions",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Huawei Networking",
+        "provider": "Huawei Academy",
+        "description": "Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications.",
+        "link": "https://ilearningx.huawei.com/portal/courses",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Huawei Networking",
+        "provider": "Huawei Academ",
+        "description": "Free course & certification (HCIA level, $200 value).",
+        "link": "https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Programming",
+        "provider": "JetBrains",
+        "description": "Free courses by JetBrains Academy for learning Java, Kotlin & Python.",
+        "link": "https://www.jetbrains.com/academy/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Cloud Monitoring",
+        "provider": "Elastic",
+        "description": "Free access to 11 Elastic Stack courses ($200 value each).",
+        "link": "https://www.elastic.co/training/free",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Diverse",
+        "provider": "Udacity",
+        "description": "One free month of access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time.",
+        "link": "https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Alibaba Cloud",
+        "provider": "Coursera",
+        "description": "“Architecting on Alibaba Cloud Specialization” at Coursera.",
+        "link": "https://www.coursera.org/specializations/alibabacloud",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "DevOps",
+        "provider": "The Linux Foundation",
+        "description": "The Linux Foundation offers 23 free courses with finalizing exams",
+        "link": "https://training.linuxfoundation.org/resources/?_sft_content_type=free-course",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "DevOps",
+        "provider": "CloudBees University",
+        "description": "Free training through CloudBees University (Jenkins, DevOps).",
+        "link": "https://standard.cbu.cloudbees.com/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Data Analytics",
+        "provider": "Sumo Logic",
+        "description": "6 free training courses and certifications by Sumo Logic.",
+        "link": "https://www.sumologic.com/learn/certifications/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Web Development",
+        "provider": "Freecodecamp",
+        "description": "6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React…",
+        "link": "https://www.freecodecamp.org/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Diverse",
+        "provider": "Udemy",
+        "description": "~670 free courses at Udemy, incl. certificates.",
+        "link": "https://www.udemy.com/courses/free/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "cPanel",
+        "provider": "Cpanel University",
+        "description": "Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status.",
+        "link": "https://exams.cpanel.net/catalog/info/id:228,cat:38",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Plesk",
+        "provider": "Plesk University",
+        "description": "Free Plesk Obsidian Professional Certification",
+        "link": "https://university.plesk.com/catalog/info/id:343",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "SolusIO",
+        "provider": "Plesk University",
+        "description": "Free SolusIO Professional Certification",
+        "link": "https://university.plesk.com/catalog/info/id:369",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "Analytics",
+        "provider": "Google Analytics Academy",
+        "description": "Google Analytics Academy free courses with certificates",
+        "link": "https://analytics.google.com/analytics/academy/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "SD-WAN",
+        "provider": "Silver Peak",
+        "description": "Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional",
+        "link": "https://www.silver-peak.com/support/training",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Data Science, AI",
+        "provider": "IBM Cognitive Class",
+        "description": "Free AI courses with proof of completion and badge",
+        "link": "https://cognitiveclass.ai/",
+        "expiration": "Unlimited"
+      },
+      {
+        "technology": "IT sector",
+        "provider": "Bitdegree",
+        "description": "Gain or improve digital skills on our eLearning platform",
+        "link": "https://www.bitdegree.org/free-certifications-online",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "SysTrack",
+        "provider": "Lakeside Software",
+        "description": "Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer.",
+        "link": "https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Eggplant",
+        "provider": "Eggplant",
+        "description": "Free Eggplant courses and certifications.",
+        "link": "https://www.eggplantsoftware.com/training-and-certifications",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "AWS",
+        "provider": "AWS",
+        "description": "Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals.",
+        "link": "https://aws.amazon.com/training/restart/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "AWS",
+        "provider": "AWS",
+        "description": "AWS Cloud Quest: Cloud Practitioner",
+        "link": "https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "AWS",
+        "provider": "AWS",
+        "description": "AWS Solutions Architect - Knowledge Badge Readiness Path",
+        "link": "https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "API",
+        "provider": "Postman",
+        "description": "Postman API Fundamentals Student Expert",
+        "link": "https://academy.postman.com/path/postman-api-fundamentals-student-expert",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "API",
+        "provider": "API Academy",
+        "description": "Free API Designer and API Security Architect certifications.",
+        "link": "https://apiacademy.co/api-certification/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "API",
+        "provider": "Gravitee.io",
+        "description": "Event-Native API Management Fundamentals Certification",
+        "link": "https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "API",
+        "provider": "Gravitee.io",
+        "description": "Event-Native API Management Professional Certification",
+        "link": "https://gravitee.getlearnworlds.com/course/gravitee-enap-certification",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Zerto",
+        "provider": "Zerto",
+        "description": "Free Zerto Associate Certification on Zerto University.",
+        "link": "https://www.zerto.com/myzerto/training/",
+        "expiration": "Unknown"
+      },
+      {
+        "technology": "Calico",
+        "provider": "Calico",
+        "description": "Certified Calico Operator: Level 1.",
+        "link": "https://academy.tig"
+      },
+      {
+        "technology": "Calico",
+        "provider": "Calico",
+        "description": "Certified Calico Operator: AWS Expert",
+        "link": "https://academy.tigera.io/course/certified-calico-operator-aws-expert/",
+        "expiration": "Unknown"
+      }
+,      {
+        "technology": "Calico",
+        "provider": "Calico",
+        "description": "Certified Calico Operator: Azure Expert",
+        "link": "https://academy.tigera.io/course/certified-calico-operator-azure-expert/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Calico",
+        "provider": "Calico",
+        "description": "Certified Calico Operator: eBPF",
+        "link": "https://academy.tigera.io/course/certified-calico-operator-ebpf/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Stepik",
+        "provider": "Stepik",
+        "description": "Several free courses with certificates are available for reference in design, computer science, mathematics, etc.",
+        "link": "https://stepik.org/catalog/search?cert=true&free=true",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "DevOps-Automation",
+        "provider": "CHEF",
+        "description": "FREE Chef Principles Certification Exam",
+        "link": "https://learn.chef.io/courses/course-v1:chef+CP101+exam/about",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Observability",
+        "provider": "New Relic",
+        "description": "FREE Full Stack Observability Exam",
+        "link": "https://learn.newrelic.com/full-stack-observability-exam",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Programmability",
+        "provider": "New Relic",
+        "description": "FREE Programmability Certification Exam",
+        "link": "https://learn.newrelic.com/programmability-certification",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Chaos",
+        "provider": "Gremlin",
+        "description": "FREE Gremlin Certified Chaos Engineering practitioner Certification",
+        "link": "https://gremlin.coassemble.com/unlock/7Jan8Su#/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Neo4j",
+        "provider": "Neo4j, Inc.",
+        "description": "Become a Neo4j Certified Professional",
+        "link": "https://neo4j.com/graphacademy/neo4j-certification/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Confluent",
+        "provider": "Confluent",
+        "description": "Fundamentals Accreditation",
+        "link": "https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Confluence",
+        "provider": "Confluence",
+        "description": "Fundamentals Accreditation",
+        "link": "https://university.atlassian.com/student/path/861302-confluence-fundamentals",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Gatling",
+        "provider": "Gatling Academy",
+        "description": "Become an ace on Gatling’s Load Testing tool!",
+        "link": "https://academy.gatling.io/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Appium",
+        "provider": "HeadSpin",
+        "description": "Appium Advanced Certifications",
+        "link": "https://www.headspin.io/courses/the-appium-webinar-collection",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Selenium",
+        "provider": "LambdaTest",
+        "description": "Selenium Advanced Certifications",
+        "link": "https://www.lambdatest.com/certifications/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "DeepLearning AI",
+        "provider": "Deep Learning",
+        "description": "Deep Learning Specialization. Master Deep Learning, and Break into AI",
+        "link": "https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Kubernetes",
+        "provider": "Kasten.io by Veeam",
+        "description": "Free Kubernetes Training",
+        "link": "https://learning.kasten.io/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Kubernetes Fundamentals",
+        "provider": "Datadog",
+        "description": "Free Kubernetes Fundamentals Training with Credly Badge",
+        "link": "https://learn.datadoghq.com/bundles/k8s-fundamentals",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "GraphQL & Apollo",
+        "provider": "Odyssey by Apollo",
+        "description": "Apollo Graph Developer - Associate Certification",
+        "link": "https://odyssey.apollographql.com/certifications/apollo-graph-associate",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Kyverno",
+        "provider": "Nirmata",
+        "description": "Kyverno Fundamentals Certification",
+        "link": "https://learn.nirmata.com/courses/kyverno-fundamentals-certification/",
+        "expiration": "Unknown"
+    },
+    {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Getting Started with Cilium",
+        "link": "https://isovalent.com/labs/get"
+
+    },
+    {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Learning eBPF Tutorial",
+        "link ": "https://isovalent.com/labs/learning-ebpf-tutorial/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Ingress Controller",
+        "link": "https://isovalent.com/labs/cilium-ingress-controller/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Cluster Mesh",
+        "link": "https://isovalent.com/labs/cilium-cluster-mesh/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Isovalent Enterprise for Cilium: Network Policies",
+        "link": "https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "BGP on Cilium",
+        "link": "https://isovalent.com/labs/bgp-on-cilium/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Advanced BGP Features",
+        "link": "https://isovalent.com/labs/advanced-bgp-features/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium LoadBalancer IPAM and BGP Service Advertisement",
+        "link": "https://isovalent.com/labs/lb-ipam-bgp-service/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium LoadBalancer IPAM and L2 Service Announcement",
+        "link": "https://isovalent.com/labs/cilium-loadbalancer-ipam-and-l2-service-announcement/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Isovalent Enterprise for Cilium: Zero Trust Visibility",
+        "link": "https://isovalent.com/labs/cilium-enterprise-zero-trust-visibility/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium IPv6 Networking and Observability",
+        "link": "https://isovalent.com/labs/ipv6-networking-and-observability/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Gateway API",
+        "link": "https://isovalent.com/labs/gateway-api/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Advanced Gateway API Use Cases",
+        "link": "https://isovalent.com/labs/advanced-gateway-api-use-cases/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "L7 Load-Balancing with Kubernetes Services + Annotations",
+        "link": "https://isovalent.com/labs/l7-lb-kubernetes-annotations/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Isovalent Enterprise for Cilium: Connectivity Visibility with Hubble",
+        "link": "https://isovalent.com/labs/isovalent-cilium-enterprise-connectivity-visibility/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Golden Signals with Hubble and Grafana",
+        "link": "https://isovalent.com/labs/hubble-grafana-golden-signals/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Mutual Authentication with Cilium",
+        "link": "https://isovalent.com/labs/mutual-authentication-with-cilium/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Transparent Encryption with IPSec and WireGuard",
+        "link": "https://isovalent.com/labs/cilium-transparent-encryption-with-ipsec-and-wireguard/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Egress Gateway",
+        "link": "https://isovalent.com/labs/cilium-egress-gateway/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium Host Firewall",
+        "link": "https://isovalent.com/labs/cilium-host-firewall/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "SCTP on Cilium",
+        "link": "https://isovalent.com/labs/sctp-on-cilium/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Cilium BIG TCP",
+        "link": "https://isovalent.com/labs/cilium-big-tcp/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium",
+        "provider": "Isovalent",
+        "description": "Migrating to Cilium",
+        "link": "https://isovalent.com/labs/migrating-to-cilium/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium Tetragon",
+        "provider": "Isovalent",
+        "description": "Getting Started with Tetragon",
+        "link": "https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/",
+        "expiration": "Unknown"
+        },
+        {
+        "technology": "Cilium Tetragon",
+        "provider": "Isovalent",
+        "description": "Isovalent Enterprise for Cilium: Security Visibility",
+        "link": "https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/",
+        "expiration": "Unknown"
+        },
+        {
+            "technology": "eBPF",
+            "provider": "Isovalent",
+            "description": "Getting Started with eBPF",
+            "link": "https://isovalent.com/labs/get",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "eBPF",
+            "provider": "Isovalent",
+            "description": "Learning eBPF Tutorial",
+            "link": "https://isovalent.com/labs/learning-ebpf-tutorial/",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "AWS Skill Builder",
+            "provider": "AWS",
+            "description": "A repository of over 700 training lessons to help you learn AWS, refine your knowledge of AWS services, and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications.",
+            "link": "https://explore.skillbuilder.aws/learn/catalog",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional API Management Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional API Design Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Associate Developer Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Associate EDI for X12 Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Associate Flow Essentials Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Associate Master Data Hub Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Development and Application Architecture Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional Developer Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional Flow Developer Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Associate Administrator Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional Linux Operational Administrator Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Integration",
+            "provider": "Boomi",
+            "description": "Professional Windows Operational Administrator Certification",
+            "link": "https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Apache Kafka & OpenShift",
+            "provider": "RedHat",
+            "description": "Free Course On Event-Driven Architecture with Apache Kafka and Red Hat OpenShift Application Services Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/ad082-event-driven-architecture-apache-kafka-red-hat-openshift-application-services-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "OpenStack",
+            "provider": "RedHat",
+            "description": "Free Course On Red Hat OpenStack Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Ansible",
+            "provider": "RedHat",
+            "description": "Free Course On Ansible Basics: Automation Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "RedHat Agile",
+            "provider": "RedHat",
+            "description": "Free Course On Red Hat Agile Integration Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/do040-red-hat-agile-integration-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Kubernetes and OpenShift",
+            "provider": "RedHat",
+            "description": "Free Course On Containers, Kubernetes and Red Hat OpenShift Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Cloud-Native",
+            "provider": "RedHat",
+            "description": "Free Course On Developing Cloud-Native Applications with Microservices Architectures",
+            "link": "https://www.redhat.com/en/services/training/do092-developing-cloud-native-applications-microservices-architectures",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Virtualization",
+            "provider": "RedHat",
+            "description": "Free Course On Virtualization and Infrastructure Migration Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "RHE Linux",
+            "provider": "RedHat",
+            "description": "Free Course On Red Hat Enterprise Linux Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Ansible Automation for SAP",
+            "provider": "RedHat",
+            "description": "Free Course On Red Hat Ansible Automation for SAP Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/rh045-red-hat-ansible-automation-sap",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Red Hat Satellite",
+            "provider": "RedHat",
+            "description": "Free Course On Red Hat Satellite Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Containers",
+            "provider": "RedHat",
+            "description": "Free Course On Running Containers with Red Hat Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Site Reliability Engineering",
+            "provider": "RedHat",
+            "description": "Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview",
+            "link": "https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "GitOps",
+            "provider": "Akuity",
+            "description": "Introduction to Continuous Delivery and GitOps using Argo CD",
+            "link": "https://academy.akuity.io/courses/gitops-argocd-intro",
+            "expiration": "Unknown"
+        },
+        {
+            "technology": "Network",
+            "provider": "Cisco U",
+            "description": "Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free",
+            "link": "https://u.cisco.com/path/3",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Network",
+            "provider": "Cisco Networking Academy",
+            "description": "Networking Essentials",
+            "link": "https://www.netacad.com/courses/networking/networking-essentials",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Game Development",
+            "provider": "Unity",
+            "description": "Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills.",
+            "link": "https://learn.unity.com/",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Internet of Things",
+            "provider": "Cisco Networking Academy",
+            "description": "Introduction to IoT",
+            "link": "https://www.netacad.com/courses/iot/introduction-iot",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "DevOps",
+            "provider": "Google Cloud Skills Boost",
+            "description": "DevOps Essentials",
+            "link": "https://www.cloudskillsboost.google/course_templates/717",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "AI Fundamentals",
+            "provider": "Google Cloud Skills Boost",
+            "description": "Introduction to Generative AI",
+            "link": "https://www.cloudskillsboost.google/journeys/118/course_templates/536",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Machine Learning",
+            "provider": "Google Cloud Skills Boost",
+            "description": "Intro to ML: Language Processing",
+            "link": "https://www.cloudskillsboost.google/course_templates/740",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Machine Learning",
+            "provider": "Google Cloud Skills Boost",
+            "description": "Integrate with Machine Learning APIs",
+            "link": "https://www.cloudskillsboost.google/course_templates/630",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "Cloud",
+            "provider": "Google Cloud Skills Boost",
+            "description": "Cloud Engineering",
+            "link": "https://www.cloudskillsboost.google/course_templates/695",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "AI",
+            "provider": "Elements of AI",
+            "description": "Free online courses about the basics of AI",
+            "link": "https://www.elementsofai.com/",
+            "expiration": "Unlimited"
+        },
+        {
+            "technology": "AI",
+            "provider": "LinkedIn",
+            "description": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+            "link": "https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin",
+            "expiration": "Unknown"
+        }        
+            
+    ],
+    "security": [
+       
+        {
+            "provider": "Fortinet",
+            "description": "Free Network Security training courses & certifications by Fortinet / NSE Institute.",
+            "link": "https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "The Academic Council Of uLektz",
+            "description": "Free Cyber Security training and certification.",
+            "link": "https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "APMG International",
+            "description": "Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible individuals** (see link for info).",
+            "link": "https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "Cisco Networking Academy",
+            "description": "Free Introduction to Cybersecurity course with Networking Academy badge for completing this course.",
+            "link": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "SkillFront",
+            "description": "Free ISO/IEC 27001 Information Security Associate™",
+            "link": "https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "AttackIQ",
+            "description": "Foundations of Purple Teaming",
+            "link": "https://www.academy.attackiq.com/courses/foundations-of-purple-teaming",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "AttackIQ",
+            "description": "Foundations of Breach & Attack Simulation",
+            "link": "https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "AttackIQ",
+            "description": "Foundations of Operationalizing MITRE ATT&CK v13",
+            "link": "https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "Cisco Networking Academy",
+            "description": "Introduction to Cybersecurity",
+            "link": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "Cisco Networking Academy",
+            "description": "Cybersecurity Essentials",
+            "link": "https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "Google Cloud Skills Boost",
+            "description": "Security & Identity Fundamentals",
+            "link": "https://www.cloudskillsboost.google/course_templates/770",
+            "expiration": "Unlimited"
+        }
+        
+
+    ],
+    "databases": [
+        {
+            "provider": "Mongodb",
+            "description": "12 free MongoDB courses with proof of completion.",
+            "link": "https://university.mongodb.com/courses/catalog",
+            "expiration": "Unlimited"
+        },
+        {
+            "provider": "CockcroachLab University",
+            "description": "Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB",
+            "link": "https://university.cockroachlabs.com/course/getting-started-with-cockroachdb",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "CockcroachLab University",
+            "description": "Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB",
+            "link": "https://university.cockroachlabs.com/course/cockroachdb-for-python-developers",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "Liquibase",
+            "description": "Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world.",
+            "link": "https://learn.liquibase.com/index",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "Redis",
+            "description": "Redis Certified Developer is our professional certification program for software developers who regularly work with Redis.",
+            "link": "https://university.redis.com/certification/",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "Databricks",
+            "description": "Free Training: Databricks Lakehouse Fundamentals.",
+            "link": "https://www.databricks.com/learn/training/lakehouse-fundamentals",
+            "expiration": "Unknown"
+        },
+        {
+            "provider": "SQL",
+            "description": "Free SQL Course with Certificate",
+            "link": "https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup",
+            "expiration": "90 days of access"
+        }
+        
+    ],
+    "project-management": [],
+    "marketing": []
+  }
+    
+   
