@@ -1,19 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags for character set and viewport configuration -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title of the webpage -->
     <title>CertifyMaster</title>
+    <!-- Link to the external CSS file -->
     <link rel="stylesheet" href="styles.css">
+    <!-- Link to Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
+    <!-- Header section containing the title and description -->
     <header>
         <h1>CertifyMaster</h1>
-        
         <p>A curated list of free courses & certifications. <br> By CloudStudyNet, Site created by Mohammed Nuseirat.</p>
     </header>
 
+    <!-- Navigation menu -->
     <nav>
         <ul>
             <li><a href="#general">General</a></li>
@@ -22,11 +27,13 @@
         </ul>
     </nav>
 
+    <!-- Main content container -->
     <div class="container">
         <!-- General Section -->
         <section id="general" class="section">
             <h2>General <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
+                <!-- Filter options for expiration and provider -->
                 <label for="expiration-filter-general">Expiration:</label>
                 <select id="expiration-filter-general">
                     <option value="">All</option>
@@ -38,6 +45,7 @@
                 <label for="provider-filter-general">Provider:</label>
                 <input type="text" id="provider-filter-general" placeholder="Filter by provider...">
             </div>
+            <!-- Table to display certification details -->
             <div class="table-wrapper">
                 <table>
                     <thead>
@@ -59,6 +67,7 @@
         <section id="security" class="section">
             <h2>Security <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
+                <!-- Filter options for expiration and provider -->
                 <label for="expiration-filter-security">Expiration:</label>
                 <select id="expiration-filter-security">
                     <option value="">All</option>
@@ -70,6 +79,7 @@
                 <label for="provider-filter-security">Provider:</label>
                 <input type="text" id="provider-filter-security" placeholder="Filter by provider...">
             </div>
+            <!-- Table to display certification details -->
             <div class="table-wrapper">
                 <table>
                     <thead>
@@ -90,6 +100,7 @@
         <section id="databases" class="section">
             <h2>Databases <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
+                <!-- Filter options for expiration and provider -->
                 <label for="expiration-filter-databases">Expiration:</label>
                 <select id="expiration-filter-databases">
                     <option value="">All</option>
@@ -101,6 +112,7 @@
                 <label for="provider-filter-databases">Provider:</label>
                 <input type="text" id="provider-filter-databases" placeholder="Filter by provider...">
             </div>
+            <!-- Table to display certification details -->
             <div class="table-wrapper">
                 <table>
                     <thead>
@@ -116,20 +128,16 @@
                 </table>
             </div>
         </section>
-
-       
-
     </div>
 
-    <!-- Back to Top Links -->
+    <!-- Back to top link -->
     <p align="center"><a href="#general"><i class="fas fa-arrow-up"></i> <br></a></p>
 
-
-
-    
+    <!-- Link to external JavaScript file -->
     <script src="certifications.js"></script>
 </body>
 <footer>
+    <!-- Footer content with social media links -->
     <div class="footer-content">
         <h3>By Mohammed Nuseirat</h3>
         <p>Follow me on social media and check out my other works</p>
@@ -139,6 +147,7 @@
             <li><a href="https://nuseirat.github.io/"><i class="fas fa-globe"></i></a></li>
         </ul>
     </div>
+    <!-- Footer bottom text -->
     <div class="footer-bottom">
         <p>&copy; 2024 Mohammed Nuseirat. All rights reserved.</p>
     </div>
