@@ -106,6 +106,7 @@ function createTableRow(certification, columnCount) {
 
 
 
+
 // Function to toggle the visibility of sections
 function toggleSection(sectionId) {
     const section = document.getElementById(sectionId);
@@ -125,6 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
 
 
