@@ -3,8 +3,7 @@
 Try it: [CertifyMaster](https://certifymaster.netlify.app/)
 
 CertifyMaster is an online platform dedicated to providing a curated list of free educational resources, certifications, and training programs across various technologies and fields. Our goal is to help learners and professionals advance their skills, enhance their knowledge, and gain valuable certifications to boost their careers.
-
-![لقطة شاشة 2024-10-15 214756](https://github.com/user-attachments/assets/21f8517c-6791-481c-ac01-5393a17ee0f2)
+![لقطة شاشة 2024-10-24 234230](https://github.com/user-attachments/assets/ee5575a9-3fac-43ad-82e5-500c755e51f5)
 
 ## Features
 
