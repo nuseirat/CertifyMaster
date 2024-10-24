@@ -1,87 +1,254 @@
-/* General body styling including font, background gradient, margin, padding, and horizontal overflow */
+/* General body styling */
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to bottom, #f0f3f5, #cbd2d9);
+    font-family: 'Poppins', sans-serif;
+    background:  linear-gradient(135deg, #020617, #1e293b);
     margin: 0;
-    padding: 0;
-    overflow-x: hidden; 
+    padding: 20px;
+    overflow-x: hidden;
 }
 
-/* Header styling including background color, text color, alignment, padding, and bottom margin */
+/* Container to prevent touching borders */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Glass effect for containers */
+.glass {
+    background: #ffffff10;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border: 1px solid #ffffff4d;
+    box-shadow: 0 8px 32px #23243325;
+    border-radius: 20px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+}
+
+/* Glass effect for cards */
+.glass-card {
+    background: #ffffff0a;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid #ffffff33;
+    transition: all 0.3s ease;
+    border-radius: 20px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 15px 25px #1819254d;
+}
+
+.glass-card:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.075);
+    box-shadow: 0 20px 45px #1a1a2466;
+}
+
+/* Header styling */
 header {
-    background: linear-gradient(to bottom, #3e7397, #3e7397);
     color: white;
     text-align: center;
     padding: 2rem 0;
     margin-bottom: 2rem;
-}
-
-/* Main heading (h1) styling with margin and font size */
-h1 {
-    margin: 0;
-    font-size: 3rem;
-}
-
-/* Container styling for main content area including width, max-width, margin, background color, padding, border-radius, and box-shadow */
-.container {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
-    background-color: #ffffff;
-    padding: 2rem;
     border-radius: 20px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.2);
 }
 
-/* Navigation styling for text alignment and bottom margin */
+/* Headings */
+h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Navigation */
 nav {
     text-align: center;
     margin-bottom: 2rem;
 }
 
-/* Unordered list (ul) styling for removing list style, padding, and margin */
 ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
 }
 
-/* List item (li) styling for inline-block display and right margin */
 li {
     display: inline-block;
-    margin-right: 10px;
 }
 
-/* Anchor (a) tag styling for color, text-decoration, padding, border-radius, and transition effects */
 a {
-    color: #186aa1;
+    color: #fff;
     text-decoration: none;
     padding: 10px 15px;
-    border-radius: 5px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.15);
     transition: background-color 0.3s, color 0.3s;
+    font-weight: 500;
+    display: block;
 }
 
-/* Anchor (a) tag hover effect for background color and text color */
 a:hover {
-    background-color: #133955;
-    color: white;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* Section styling including bottom margin, border, padding, border-radius, and overflow */
+/* Section styling */
 .section {
     margin-bottom: 2rem;
-    border: 1px solid #3e7397;
     padding: 2rem;
-    border-radius: 10px;
+    border-radius: 20px;
     overflow: hidden;
 }
 
-/* Heading 2 (h2) styling for font size, color, position, and bottom margin */
-h2 {
-    font-size: 2.5rem;
-    color: #333;
-    position: relative;
+/* Description section */
+.description {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.description.expanded {
+    max-height: 500px;
+}
+
+.description-trigger {
+    cursor: pointer;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px 0;
+    transition: background-color 0.3s;
+}
+
+.description-trigger:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Filter section */
+.filter-options {
+    display: flex;
+    gap: 1rem;
     margin-bottom: 1rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 1rem;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(31, 38, 135, 0.15);
+}
+
+.filter-group {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+}
+
+.expiration-filter,
+.provider-filter {
+    flex: 1;
+}
+
+.filter-options label {
+    font-size: 1.2rem;
+    color: white;
+    margin-right: 0.5rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+/* Improved dropdown styling */
+.filter-options select,
+.filter-options input {
+    padding: 0.8rem;
+    border: none;
+    border-radius: 20px;
+    background: #252638b3;
+    color: white;
+    width: 100%;
+    font-size: 1rem;
+    outline: none;
+    box-shadow: 0 2px 10px rgba(31, 38, 135, 0.1);
+    transition: all 0.3s ease;
+}
+
+.filter-options select option {
+    background-color: #5f6999;
+    color: white;
+    padding: 10px;
+}
+
+.filter-options select:hover,
+.filter-options input:hover,
+.filter-options select:focus,
+.filter-options input:focus {
+    background: #636670cc;
+    box-shadow: 0 5px 20px #1c1e334d;
+}
+
+/* Table styling */
+.table-wrapper {
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    color: white;
+}
+
+th {
+    background-color: #1f268780;
+    white-space: nowrap;
+}
+
+td {
+    background-color: #ffffff1a;
+}
+
+.provider-name {
+    font-weight: 700;
+    color: #fff;
+}
+
+.description-text {
+    font-style: italic;
+}
+
+.expiration-text {
+    font-weight: 600;
+    color: #FFD700;
+}
+
+/* Footer */
+footer {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px 0;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 2rem;
+    color: #fff;
 }
 
 /* Styling for the arrow icon including float, font size, transition effects, and cursor */
@@ -94,207 +261,175 @@ h2 {
 
 /* Arrow hover effect for color and rotation */
 .arrow:hover {
-    color: #3e7397;
+    color: #fdfdfd;
     transform: rotate(180deg);
 }
 
-/* Filter options styling for display, flex-wrap, gap, and bottom margin */
-.filter-options {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-bottom: 1rem;
-}
 
-/* Label styling within filter options for right margin */
-.filter-options label {
-    margin-right: 0.5rem;
-}
-
-/* Select and input styling within filter options for padding, border, and border-radius */
-.filter-options select, .filter-options input {
-    padding: 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-/* Table wrapper styling for horizontal overflow */
-.table-wrapper {
-    overflow-x: auto;
-}
-
-/* Table styling including width, border-collapse, and bottom margin */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-}
-
-/* Table header (th) and data cell (td) styling for padding, text alignment, and border */
-th, td {
-    padding: 12px 15px;
-    text-align: left;
-    border: 1px solid #ddd;
-}
-
-/* Table header (th) specific styling for background color and text color */
-th {
-    background-color: #f2f2f2;
-    color: #333;
-}
-
-/* Table row styling for alternating background color */
-tbody tr:nth-child(even) {
-    background-color: #f9f9f9;
-}
-
-/* Back to top link styling for text alignment and top margin */
-.back-to-top {
-    text-align: center;
-    margin-top: 2rem;
-}
-
-/* Back to top anchor styling for color, text-decoration, and transition */
-.back-to-top a {
-    color: #3e7397;
-    text-decoration: none;
-    transition: color 0.3s;
-}
-
-/* Back to top anchor hover effect for color */
-.back-to-top a:hover {
-    color: #333;
-}
-
-/* Responsive media query for screens with max width of 768px */
+/* Responsive styles */
 @media (max-width: 768px) {
-    /* Adjust font size for main heading (h1) */
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        padding: 0 10px;
+    }
+
     h1 {
         font-size: 2.5rem;
     }
 
-    /* Adjust font size for section heading (h2) */
     h2 {
         font-size: 2rem;
     }
 
-    /* Adjust container padding */
-    .container {
+    .section {
         padding: 1rem;
     }
 
-    /* Adjust anchor padding */
-    a {
-        padding: 8px 12px;
-    }
-
-    /* Adjust filter options layout for smaller screens */
     .filter-options {
         flex-direction: column;
-        align-items: flex-start;
     }
 
-    /* Ensure table minimum width is maintained */
+    .filter-group {
+        flex-direction: column;
+    }
+
+    .filter-options select,
+    .filter-options input {
+        width: 95%;
+    }
+}
+
+.arrow {
+    font-size: 1.5rem;
+    transition: transform 0.3s ease;
+}
+
+/* Unique text styles */
+.provider-name {
+    font-weight: 700;
+    color: #FFD700;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+
+.description-text {
+    font-style: italic;
+    color: #E0E0E0;
+    line-height: 1.4;
+    font-size: 0.95rem;
+}
+
+.link-text {
+    color: #00FF00;
+    font-weight: 600;
+    text-decoration: underline;
+    font-size: 1rem;
+}
+
+.expiration-text {
+    font-weight: 600;
+    color: #FF69B4;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.technology-text {
+    color: #87CEEB;
+    font-weight: 500;
+    font-size: 1rem;
+    letter-spacing: 0.3px;
+}
+
+
+/* Enhanced mobile styles */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .glass-card {
+        padding: 1rem;
+    }
+
+    /* Mobile-optimized table layout */
     table {
-        min-width: 100%;
+        border: 0;
+        background: none;
     }
 
-    /* Prevent table cells from wrapping text */
-    th, td {
-        white-space: nowrap;
+    table thead {
+        display: none;
     }
-}
 
-/* Footer styling including background color, text color, padding, and text alignment */
-footer {
-    background-color: #333;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-}
+    table tr {
+        margin-bottom: 1rem;
+        display: block;
+        background: rgba(255, 255, 255, 0.1);
+        border-radius: 10px;
+        padding: 1rem;
+    }
 
-/* Footer content styling for maximum width and margin */
-.footer-content {
-    max-width: 800px;
-    margin: auto;
-}
+    table td {
+        display: block;
+        text-align: left;
+        padding: 0.5rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        position: relative;
+        background: none;
+    }
 
-/* Footer content heading (h3) styling for bottom margin and font size */
-.footer-content h3 {
-    margin-bottom: 10px;
-    font-size: 24px;
-}
+    table td:last-child {
+        border-bottom: none;
+    }
 
-/* Footer content paragraph (p) styling for bottom margin and font size */
-.footer-content p {
-    margin-bottom: 20px;
-    font-size: 16px;
-}
+    /* Add labels for mobile view */
+    table td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        text-transform: uppercase;
+        display: block;
+        margin-bottom: 0.5rem;
+        font-size: 0.8rem;
+        color: #FFD700;
+    }
 
-/* Social media links styling for list */
-.socials {
-    list-style: none;
-    padding: 0;
-}
+    .provider-name {
+        font-size: 1rem;
+        margin: 0.5rem 0;
+    }
 
-/* Social media links list item styling for inline display and margin */
-.socials li {
-    display: inline;
-    margin: 0 10px;
-}
+    .description-text {
+        font-size: 0.9rem;
+        margin: 0.5rem 0;
+        line-height: 1.3;
 
-/* Social media anchor styling for color, text-decoration, and font size */
-.socials a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
+    }
 
-/* Social media anchor hover effect for color */
-.socials a:hover {
-    color: #ddd;
-}
+    .link-text {
+        font-size: 0.9rem;
+        margin: 0.5rem 0;
+    }
 
-/* Other works section styling for top margin */
-.other-works {
-    margin-top: 20px;
-}
+    .expiration-text {
+        font-size: 0.85rem;
+        margin: 0.5rem 0;
+    }
 
-/* Other works heading (h4) styling for bottom margin and font size */
-.other-works h4 {
-    margin-bottom: 10px;
-    font-size: 20px;
-}
+    .technology-text {
+        font-size: 0.95rem;
+        margin: 0.5rem 0;
+    }
 
-/* Other works unordered list styling for list style and padding */
-.other-works ul {
-    list-style: none;
-    padding: 0;
-}
-
-/* Other works list item styling for bottom margin */
-.other-works li {
-    margin-bottom: 5px;
-}
-
-/* Other works anchor styling for color, text-decoration, and font size */
-.other-works a {
-    color: white;
-    text-decoration: none;
-    font-size: 16px;
-}
-
-/* Other works anchor hover effect for color */
-.other-works a:hover {
-    color: #ddd;
-}
-
-/* Footer bottom section styling for top margin */
-.footer-bottom {
-    margin-top: 20px;
-}
-
-/* Footer bottom paragraph (p) styling for font size */
-.footer-bottom p {
-    font-size: 14px;
+    /* Remove horizontal scroll */
+    .table-wrapper {
+        margin: 0;
+        padding: 0;
+    }
 }
