@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Meta tags for character set and viewport configuration -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Title of the webpage -->
-    <title>CertifyMaster</title>
+    <title>CertifyMaster - Free Courses & Certifications</title>
     <!-- Link to the external CSS file -->
     <link rel="stylesheet" href="styles.css">
     <!-- Link to Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 <body>
+
     <!-- Header section containing the title and description -->
-    <header>
+    <header class="glass">
         <h1>CertifyMaster</h1>
-        <p>A curated list of free courses & certifications. <br> By CloudStudyNet, Site created by Mohammed Nuseirat.</p>
+        <p>A curated list of free courses & certifications.<br>By CloudStudyNet, Site created by Mohammed Nuseirat.</p>
     </header>
 
     <!-- Navigation menu -->
@@ -30,7 +29,7 @@
     <!-- Main content container -->
     <div class="container">
         <!-- General Section -->
-        <section id="general" class="section">
+        <section id="general" class="section glass-card">
             <h2>General <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
                 <!-- Filter options for expiration and provider -->
@@ -57,17 +56,15 @@
                             <th>Expiration</th>
                         </tr>
                     </thead>
-                    <tbody>
-                    </tbody>
+                    <tbody></tbody>
                 </table>
             </div>
         </section>
 
         <!-- Security Section -->
-        <section id="security" class="section">
+        <section id="security" class="section glass-card">
             <h2>Security <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
-                <!-- Filter options for expiration and provider -->
                 <label for="expiration-filter-security">Expiration:</label>
                 <select id="expiration-filter-security">
                     <option value="">All</option>
@@ -79,7 +76,6 @@
                 <label for="provider-filter-security">Provider:</label>
                 <input type="text" id="provider-filter-security" placeholder="Filter by provider...">
             </div>
-            <!-- Table to display certification details -->
             <div class="table-wrapper">
                 <table>
                     <thead>
@@ -90,17 +86,15 @@
                             <th>Expiration</th>
                         </tr>
                     </thead>
-                    <tbody>
-                    </tbody>
+                    <tbody></tbody>
                 </table>
             </div>
         </section>
 
         <!-- Databases Section -->
-        <section id="databases" class="section">
+        <section id="databases" class="section glass-card">
             <h2>Databases <span class="arrow">&#9660;</span></h2>
             <div class="filter-options">
-                <!-- Filter options for expiration and provider -->
                 <label for="expiration-filter-databases">Expiration:</label>
                 <select id="expiration-filter-databases">
                     <option value="">All</option>
@@ -112,7 +106,6 @@
                 <label for="provider-filter-databases">Provider:</label>
                 <input type="text" id="provider-filter-databases" placeholder="Filter by provider...">
             </div>
-            <!-- Table to display certification details -->
             <div class="table-wrapper">
                 <table>
                     <thead>
@@ -123,33 +116,33 @@
                             <th>Expiration</th>
                         </tr>
                     </thead>
-                    <tbody>
-                    </tbody>
+                    <tbody></tbody>
                 </table>
             </div>
         </section>
     </div>
 
-    <!-- Back to top link -->
-    <p align="center"><a href="#general"><i class="fas fa-arrow-up"></i> <br></a></p>
+      <!-- Back to top link -->
+      <p align="center"><a href="#general"><i class="fas fa-arrow-up"></i> <br></a></p>
+
+    <!-- Footer -->
+    <footer class="glass">
+        <div class="footer-content">
+            <h3>Devoloped by Mohammed Nuseirat</h3>
+            <ul class="socials">
+                <li><a href="https://www.linkedin.com/in/mohammednuseirat/"><i class="fab fa-linkedin fa-2x"></i></a></li>
+                <li><a href="https://github.com/nuseirat"><i class="fab fa-github fa-2x"></i></a></li>
+                <li><a href="https://nuseirat.github.io/"><i class="fas fa-globe fa-2x"></i></a></li>
+                <li><a href="https://x.com/mohanuseirat"><i class="fa-brands fa-x-twitter fa-2x"></i></a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom">
+        </div>
+    </footer>
 
     <!-- Link to external JavaScript file -->
     <script src="certifications.js"></script>
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/86e812f22e.js" crossorigin="anonymous"></script>
 </body>
-<footer>
-    <!-- Footer content with social media links -->
-    <div class="footer-content">
-        <h3>By Mohammed Nuseirat</h3>
-        <p>Follow me on social media and check out my other works</p>
-        <ul class="socials">
-            <li><a href="https://www.linkedin.com/in/mohammednuseirat/"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="https://github.com/nuseirat"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://nuseirat.github.io/"><i class="fas fa-globe"></i></a></li>
-        </ul>
-    </div>
-    <!-- Footer bottom text -->
-    <div class="footer-bottom">
-        <p>&copy; 2024 Mohammed Nuseirat. All rights reserved.</p>
-    </div>
-</footer>
 </html>
