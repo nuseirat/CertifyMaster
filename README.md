@@ -16,7 +16,7 @@ CertifyMaster is an online platform dedicated to providing a curated list of fre
 
 ## Footer Information
 
-This GPA Calculator was created by **Mohammed Nuseirat**. Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammednuseirat/) and [Twitter](https://x.com/MohaNuseirat).
+This GPA Calculator was created by **Mohammed Nuseirat**. Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammednuseirat/) and [X](https://x.com/MohaNuseirat).
 
 ## License
 
